@@ -59,4 +59,3 @@ This project is licensed for educational purposes.
 
 ---
 
-**Developed with ❤️ by Vardhan Singh Rawat**
