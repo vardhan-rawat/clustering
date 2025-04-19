@@ -55,7 +55,7 @@ The project collects and displays the clustering performance across all preproce
 ![Clustering Result](img.jpg)
 
 
-## Iamge
+## Image
 ![Clustering Result](clustering_result.jpg)
 
 
